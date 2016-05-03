@@ -1,4 +1,4 @@
-Revision
+Polishing
 
 Computer Vision, often introduced along with the term “image understanding”, is a technology that collects and studies information about the real world by analyzing images and videos taken by optical devices. Once the image is understood by a computer, digital device can perform functions, such as facial recognition，color tracking, number recognition, and etc. 
   
@@ -11,6 +11,11 @@ Biological structures limit human eyes' abilities that they can’t achieve cert
 Computer Vision is broadly used in life, and traffic sign detector is one of the applications. For example, by running a color-recognition algorithm, computer vision is able to tell the color of the traffic lights, and the implemented computer will decide whether to stop. Another application of Computer Vision on self-driving vehicles is speed-limit recognition. When autonomous vehicles are operating under safe speed, it allows the car to have more time and space to avoid a hazardous situation.    
 
 As Computer Vision technology develops, it allows digital systems to obtain more information to satisfy their needs for operation. With high-resolution cameras and advanced computer vision algorithms, digital systems are able to replace human beings in various areas as machines now collect more information about the outside environment and react at a fast speed. 
+
+
+
+
+ 
 
 
 
