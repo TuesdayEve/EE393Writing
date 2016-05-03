@@ -6,7 +6,7 @@ Middle-level vision: object recognition, motion analysis, and 3D reconstruction 
 High-level vision: interpretation of the evolving information provided by the middle level vision as well as directing what middle and low level vision tasks should be performed. Interpretation may include conceptual description of a scene like activity, intention and behavior.
 There are differences between computer vision and image processing.
 Human eyes have limitations, such as limited visible spectrum and illusion.
-Computer Vision can be utilized in transportation. 
+Computer Vision can be utilized in transportation.
 
 
 
