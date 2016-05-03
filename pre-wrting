@@ -1,0 +1,8 @@
+Pre-writing:
+
+Computer vision is a group of technologies that study and analysis images with specific computer vision algorithms. 
+Human eyes have limitations, such limited visible spectrum and illusion.
+Low-level vision: process image for feature extraction. Middle-level vision: object recognition, motion analysis, and 3D reconstruction using features obtained from the low-level vision. High-level vision: interpretation of the evolving information provided by the middle level vision as well as directing what middle and low level vision tasks should be performed. Interpretation may include conceptual description of a scene like activity, intention and behavior.
+Difference between computer vision and image processing 
+ 
+
